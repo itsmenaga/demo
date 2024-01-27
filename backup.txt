@@ -1,6 +1,7 @@
 #Script For Backup
 
 Host: twitter.edu
+site: twitter.online
 Ip : 45.32.49.81
 password_token : o2N%KW-8KRk{T$TD
 
